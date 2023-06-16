@@ -1,3 +1,0 @@
-ERROR in [eslint] Failed to load plugin 'testing-library' declared in 'package.json » eslint-config-react-app/jest': Invalid or unexpected token
-
-webpack compiled with 1 error
